@@ -1,0 +1,10 @@
+### Informazioni personali
+Nome: Luca Bianchi
+Email: luca.bianchi@email.com
+Telefono: +39 333 2223344
+
+### Esperienza
+Luca ha esperienza nella sicurezza informatica, nell'analisi delle vulnerabilità, nella protezione di reti aziendali e nella gestione di incidenti informatici. Ha lavorato su progetti di penetration testing, hardening dei sistemi e monitoraggio della sicurezza.
+
+### Competenze
+Cybersecurity, penetration testing, vulnerability assessment, firewall, Linux, networking, sicurezza web, gestione incidenti, certificazione CEH.

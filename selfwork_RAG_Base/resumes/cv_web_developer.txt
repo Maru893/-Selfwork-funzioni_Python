@@ -1,0 +1,10 @@
+### Informazioni personali
+Nome: Giulia Ferri
+Email: giulia.ferri@email.com
+Telefono: +39 333 5556677
+
+### Esperienza
+Giulia è una sviluppatrice web con esperienza nella creazione di siti internet, applicazioni web e landing page. Ha lavorato su progetti con HTML, CSS, JavaScript, React e backend in Python. Si occupa anche di ottimizzazione delle performance e miglioramento dell'esperienza utente.
+
+### Competenze
+HTML, CSS, JavaScript, React, Python, Flask, API REST, sviluppo frontend, sviluppo backend, responsive design.

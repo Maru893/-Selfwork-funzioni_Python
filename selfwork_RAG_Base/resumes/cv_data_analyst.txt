@@ -1,0 +1,10 @@
+### Informazioni personali
+Nome: Sara Conti
+Email: sara.conti@email.com
+Telefono: +39 333 8889911
+
+### Esperienza
+Sara lavora come data analyst e si occupa di analizzare dati aziendali per aiutare le imprese a prendere decisioni migliori. Ha esperienza nella pulizia dei dati, nella creazione di dashboard, nella visualizzazione dei dati e nella preparazione di report per il management.
+
+### Competenze
+Python, Pandas, SQL, Excel, Power BI, Tableau, analisi dati, dashboard, reportistica, visualizzazione dati.

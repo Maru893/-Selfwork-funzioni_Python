@@ -1,0 +1,10 @@
+### Informazioni personali
+Nome: Alessandro Romano
+Email: alessandro.romano@email.com
+Telefono: +39 333 4447788
+
+### Esperienza
+Alessandro è un project manager con esperienza nella gestione di team, pianificazione delle attività, controllo delle scadenze e coordinamento tra reparti tecnici e business. Ha seguito progetti digitali, sviluppo software e campagne operative per aziende di medie dimensioni.
+
+### Competenze
+Project management, Agile, Scrum, pianificazione, gestione team, gestione budget, coordinamento progetti, comunicazione con stakeholder.
